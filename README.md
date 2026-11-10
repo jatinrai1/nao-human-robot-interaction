@@ -5,7 +5,7 @@ Progetto di robotica umanoide: architettura tecnica, programmazione e implementa
 > **Timeline:** Progetto scolastico (4° anno ITIS). 
 
 ## 📝 Descrizione del Progetto
-Questo repository raccoglie la documentazione di un progetto di gruppo (D’Amico, La Porta, Lusso, Merlo, Rai, Sbronzeri, Supparo) incentrato sul robot umanoide **NAO**. Il lavoro si è diviso in due fasi: lo studio del funzionamento del robot e la sua programmazione per un'esibizione dal vivo durante la Fiera di San Matteo a Laigueglia.
+Questo repository raccoglie la documentazione di un progetto di gruppo (Rai Jatin, D’Amico Alessia, La Porta Arianna, Lusso Cecilia, Merlo Marco,Sbronzeri Simone, Supparo Simona) incentrato sul robot umanoide **NAO**. Il lavoro si è diviso in due fasi: lo studio del funzionamento del robot e la sua programmazione per un'esibizione dal vivo durante la Fiera di San Matteo a Laigueglia.
 
 ## ⚙️ Tecnologie e Sensori
 La prima parte del progetto è servita a capire come muovere e far interagire il robot con l'ambiente:
